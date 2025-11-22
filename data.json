@@ -1501,5 +1501,67 @@
       "compilada",
       "produtividade"
     ]
+  },
+  {
+    "nome": "Python",
+    "descricao": "Uma linguagem de programação de alto nível, interpretada, de script, imperativa, orientada a objetos, funcional, de tipagem dinâmica e forte.",
+    "data_criacao": "1991",
+    "link": "https://www.python.org",
+    "tags": [
+      "linguagem de programação",
+      "backend",
+      "data science",
+      "scripting"
+    ]
+  },
+  {
+    "nome": "Java",
+    "descricao": "Uma linguagem de programação orientada a objetos, de propósito geral, concorrente, baseada em classes e que foi projetada para ter o menor número possível de dependências de implementação.",
+    "data_criacao": "1995",
+    "link": "https://www.java.com",
+    "tags": [
+      "linguagem de programação",
+      "backend",
+      "empresarial",
+      "jvm",
+      "orientada a objetos"
+    ]
+  },
+  {
+    "nome": "JavaScript",
+    "descricao": "Uma linguagem de programação de alto nível, dinâmica, com tipagem fraca e multiparadigma, que é uma das tecnologias centrais da World Wide Web.",
+    "data_criacao": "1995",
+    "link": "https://developer.mozilla.org/pt-BR/docs/Web/JavaScript",
+    "tags": [
+      "linguagem de programação",
+      "frontend",
+      "backend",
+      "scripting",
+      "web"
+    ]
+  },
+  {
+    "nome": "HTML",
+    "descricao": "Linguagem de Marcação de HiperTexto, a base para a criação de páginas web e aplicações web.",
+    "data_criacao": "1993",
+    "link": "https://developer.mozilla.org/pt-BR/docs/Web/HTML",
+    "tags": [
+      "linguagem de marcação",
+      "frontend",
+      "web",
+      "estrutura"
+    ]
+  },
+  {
+    "nome": "CSS",
+    "descricao": "Cascading Style Sheets é uma linguagem de folha de estilo usada para descrever a apresentação de um documento escrito em uma linguagem de marcação como HTML.",
+    "data_criacao": "1996",
+    "link": "https://developer.mozilla.org/pt-BR/docs/Web/CSS",
+    "tags": [
+      "linguagem de estilo",
+      "frontend",
+      "web",
+      "design"
+    ]
   }
 ]
